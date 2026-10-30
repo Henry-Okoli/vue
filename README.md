@@ -1,5 +1,5 @@
 # Learning how to work on clone file
-
+## Committing to a branch 
 ## Vue 2 has reached End of Life
 
 **You are looking at the now inactive repository for Vue 2. The actively maintained repository for the latest version of Vue is [vuejs/core](https://github.com/vuejs/core).**
